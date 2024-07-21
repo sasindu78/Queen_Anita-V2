@@ -13,23 +13,23 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.statusseen = false ;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["2347043759577","2349066528353"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["2347043759577","2349066528353"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["2347043759577"];
-global.OwnerName = "DAVID CYRIL";
-global.BotName = "QUEEN_ANITA-V2";
-global.packname = "A N I T A <3 D A V I D";                             //Do not change.
-global.author = "QUEEN_ANITA-V2";                               //Do not change.
+global.Owner = ["94761679959"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["94761679959"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["94761679959];
+global.OwnerName = "DARK SASIYA;
+global.BotName = "QUEEN_VISH-V2";
+global.packname = "Queen VISH";                             //Do not change.
+global.author = "QUEEN_VISH-V2";                               //Do not change.
 global.BotSourceCode = "https://github.com/DeeCeeXxx/"; //Do not change.
 global.SupportGroupLink = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"; 
 
 
 //
-global.sessionName = "session";                          //Do not change.
+global.sessionName = "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTU1MbGdJWitQa1AvcWhIdXR6VDk2VnhtVm9MUlIwL2FwQ1NMZkNrYTQzQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZk1UdzV3M1dMKzJ6REtwdG5aUzlURUpMeW9MMHUvMzYzR0gwK2d4Y0FHTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJhQzY3ODY1Yi83YnRNL0ZLSS9HVzVJMTB5MDc3WDhkWml2V1duYTh0UDNJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDZzcwT0E2SEs0Uk1GZkZYRFVvUGIvaFBSQUVRN0tqUkkvb0lWUkJyc3dnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndJVHphSFY2aUtqcmlwTktIdXJhK2JiMlRvUnZJc1B4U1VuWlQzcDJHWHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlJaVStVamZaUW1CTXhadm40WHFaUTlNN3dtL0RxY01ZM0o2VlNVVVBEMjA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0RaNkIrRlFNS28ramhybjIxbDhkNnZod09HVWNIc0hGTTQrdXhseE9FND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUHE2bFI2Qm1uR3NlR2hOTyt4ZUE5MHFuaUd0bXdnbEdoRWNVbmlvbWhsST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImZ4Ty9SYTZyNlY1U2ExVm16WTFWeTh0Z2FnV1MxLzY5RzdnUG10L0dSaDg3WFV3WE9nMGhDVzFpams4a2FjY0lkTnEyYnZEL2ZnaUhvUytJTnFJUEN3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NjUsImFkdlNlY3JldEtleSI6ImIyTkZyeU13UHRDdkZlUVMvYlZnS3g4SFB0M3l1MmJDZldnN1VndmtYeVE9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IlRrNklSUmwyU3d5UWw3a2hRZkZVM0EiLCJwaG9uZUlkIjoiZjZmYmExOGUtZmEyNy00OTJhLThiYmYtYmQ3NmUwNjY1YzA0IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ii9lM1FzMzVKYWw2blU2RGlFbkVmd1pwYVF3VT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJleHdoaHFYWisydEI2bTVWNmxFYXNoQ0xwTXc9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiTjFBSjFITEwiLCJtZSI6eyJpZCI6Ijk0NzYxNjc5OTU5OjMwQHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNMNkg1ZE1ERU5XQTZiUUdHQVFnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJNOElzUGpFUlZadHBob3N5Uy9ycDhlWVpLdmFtNVZBTUdhM1pweGl2SEJNPSIsImFjY291bnRTaWduYXR1cmUiOiJoNDBLeXFsK2tkMlQ0K1BBTFZNclFETFBVMU9DS3ovWjRsUmxYcnJsOEVaSVIrTU9TTGRkMWZ1ZUtMWUQ1MWlvZ2p0T20wbFlxYVFHdVRibVFhdzFEZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiQ2hsTnhKUlh1RHFYTG04SnRDWFI0NGIyVUladFpZQllpdU50QnZEenp3blcwYVZGbkplWnB5MXUzc1FWRC9BUDY2VjNSZlpSOXdiLzUxU0ZodEJPQ1E9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5NDc2MTY3OTk1OTozMEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJUUENMRDR4RVZXYmFZYUxNa3Y2NmZIbUdTcjJwdVZRREJtdDJhY1lyeHdUIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIxMzg1MDU5fQ==";                          //Do not change.
 
 
 //
